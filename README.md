@@ -30,7 +30,7 @@ The system operates as an end-to-end pipeline:
 
 **Rendering & Export (exporter.py):** Renders the final DOT definition into the requested image and documentation formats.
 
-# Prerequisites
+# Pre-requisites
 
 To run this project, you need:
 
